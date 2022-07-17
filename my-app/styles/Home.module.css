@@ -1,0 +1,35 @@
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid white;
+  padding: 3rem 2rem;
+}
+
+.navbarTitle {
+  margin-right: 1rem;
+}
+
+.main {
+  margin: auto;
+  padding: 3rem 2rem;
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+}
+
+.main button {
+  padding: 10px;
+  width: 10rem;
+  padding: 1rem 2rem;
+  font-size: large;
+  font-weight: bolder;
+  background-color: white;
+  border-radius: 15px;
+  cursor: pointer;
+  outline: 1px solid white;
+}
+
+.main h2 {
+  text-align: center;
+}
