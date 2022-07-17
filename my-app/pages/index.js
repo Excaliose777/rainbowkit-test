@@ -73,7 +73,7 @@ export default function Home() {
         <div className={styles.main}>
           <div className={styles.button}>
           <button onClick={joinWhitelist}>Join Whitelist</button>
-          <h2>{data} / 7 </h2>
+          <h2>{data} / 8 </h2>
           </div>
         </div>
     </div>
